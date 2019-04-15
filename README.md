@@ -1,4 +1,3 @@
 # Drone
 quadcopter development
-HELLO
 
