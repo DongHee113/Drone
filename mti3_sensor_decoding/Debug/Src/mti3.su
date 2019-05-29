@@ -1,4 +1,0 @@
-mti3.c:21:6:get_mti3_packet	32	static
-mti3.c:153:5:checksum	0	static
-mti3.c:99:6:decode_mti3	32	static
-mti3.c:11:6:read_mti3	8	static
